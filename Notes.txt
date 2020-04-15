@@ -1,0 +1,27 @@
+-EN
+(C) Bilal Bouamer 2020.
+       Chono 1.2
+       
+(C): Start
+(P): Pause
+(T): Tour
+(A): Stop
+
+-FR
+(C) Bilal Bouamer 2020.
+       Chono 1.2
+       
+(C): Commencer
+(P): Pause
+(T): Tour
+(A): Arrêter
+
+-FI
+
+(C) Bilal Bouamer 2020.
+       Chono 1.2
+       
+(C): Aloita
+(P): Tauko
+(T): Torni
+(A): Lopeta
